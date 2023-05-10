@@ -12,4 +12,4 @@
 |7|Securing your microservices||<p><ul><li>[Microservices security fundamentals](https://github.com/abbos0123/Microservices/blob/main/Microservices-in-Action/Microservices%20Security_%20Fundamentals%20and%20Best%20Practices%20_%20Styra.pdf) ```www.styra.com```</li> <p> <li>[Spring Boot OAuth2 Keycloak](https://www.youtube.com/playlist?list=PLSVW22jAG8pAXU0th247M7xPCekzeNdrH)</li> ```YouTube```  ```Programming Techie```</ul><p>|:heavy_check_mark:|
 |8|Event-driven architecture <br/> with Spring Cloud Stream|||:x:|
   |9|Distributed tracing with <br/> Spring Cloud Sleuth and Zipkin|<ul><p><li>[microservice app](https://github.com/abbos0123/Microservices/tree/main/Microservices-in-Action/Practice/chapter-9/microservice-app)</li></ul>|<p><ul>[Spring Cloud Sleuth](https://www.baeldung.com/spring-cloud-sleuth-single-application)<p>```www.baeldung.com```</ul><p>|:heavy_check_mark:|
-|10|Deploying your <br/> microservices|||:book:|
+  |10|Deploying your <br/> microservices||<p><ul><li>[DevOps](https://github.com/abbos0123/DevOps/tree/main/Docker)</li></ul><p>|:heavy_check_mark:|
