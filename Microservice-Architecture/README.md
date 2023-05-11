@@ -13,5 +13,6 @@ Microservices architectures make applications easier to scale and faster to deve
 |API Gateway Pattern|||:hourglass:|
 |Distributed Tracing|||:hourglass:|
 |Circuit Breaker Pattern|||:hourglass:|
-|Event Based Architecture|||:hourglass:|
+|Event-driven architecture|||:hourglass:|
 |Securing Microservices|||:hourglass:|
+|Deployment of Microservices|||:hourglass:|
