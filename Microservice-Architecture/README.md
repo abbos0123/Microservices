@@ -7,5 +7,12 @@ Microservices architectures make applications easier to scale and faster to deve
 ## [Practice](https://github.com/abbos0123/Microservices/edit/main/Microservice-Architecture/Practice) 📝
 ## Study Plan 📚
 
-|Chapter|Name|Practice(code)|Related Resource|Status|
-|-------|----|--------------|----------------|------|
+|Topic|Practice(code)|Related Resource|Status|
+|-----|--------------|----------------|------|
+|Registry and Discovery Pattern|||:hourglass:|
+|Config-Server to Externalize the Configurations|||:hourglass:|
+|API Gateway Pattern|||:hourglass:|
+|Distributed Tracing|||:hourglass:|
+|Circuit Breaker Pattern|||:hourglass:|
+|Event Based Architecture|||:hourglass:|
+|Securing Microservices|||:hourglass:|
