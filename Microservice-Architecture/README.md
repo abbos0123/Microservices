@@ -6,13 +6,13 @@ Microservices architectures make applications easier to scale and faster to deve
 
 ## Study Plan 📚
 
-|Topic|Practice(code)|Related Resource|Status|
-|-----|--------------|----------------|------|
-|Registry and Discovery Pattern|[Practice](https://github.com/abbos0123/Microservices/tree/main/Microservice-Architecture/Registry%20and%20Discovery%20Pattern/Practice)|[Resource](https://github.com/abbos0123/Microservices/tree/main/Microservice-Architecture/Registry%20and%20Discovery%20Pattern/Resource)|:book:|
-|Config-Server to Externalize the Configurations|||:hourglass:|
-|API Gateway Pattern|||:hourglass:|
-|Distributed Tracing|||:hourglass:|
-|Circuit Breaker Pattern|||:hourglass:|
-|Event-driven architecture|||:hourglass:|
-|Securing Microservices|||:hourglass:|
-|Deployment of Microservices|||:hourglass:|
+|No|Topic|Resource|Status|
+|--|-----|--------|------|
+|1.|Registry and Discovery Pattern|[Registry and Discovery Pattern](https://github.com/abbos0123/Microservices/tree/main/Microservice-Architecture/Registry%20and%20Discovery%20Pattern)|:book:|
+|2.|Config-Server to Externalize the Configurations|Config-Server to Externalize the Configurations|:hourglass:|
+|3.|API Gateway Pattern|API Gateway Pattern|:hourglass:|
+|4.|Distributed Tracing|Distributed Tracing|:hourglass:|
+|5.|Circuit Breaker Pattern|Circuit Breaker Pattern|:hourglass:|
+|6.|Event-driven architectur|Event-driven architectur|:hourglass:|
+|7.|Securing Microservices|Securing Microservices|:hourglass:|
+|8.|Deployment of Microservices|Deployment of Microservices|:hourglass:|
