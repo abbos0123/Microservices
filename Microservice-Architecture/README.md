@@ -8,7 +8,7 @@ Microservices architectures make applications easier to scale and faster to deve
 
 |Topic|Practice(code)|Related Resource|Status|
 |-----|--------------|----------------|------|
-|Registry and Discovery Pattern|[practice](https://github.com/abbos0123/Microservices/tree/main/Microservice-Architecture/Registry%20and%20Discovery%20Pattern/Practice)|[resource](https://github.com/abbos0123/Microservices/tree/main/Microservice-Architecture/Registry%20and%20Discovery%20Pattern/Resource)|:book:|
+|Registry and Discovery Pattern|[Practice](https://github.com/abbos0123/Microservices/tree/main/Microservice-Architecture/Registry%20and%20Discovery%20Pattern/Practice)|[Resource](https://github.com/abbos0123/Microservices/tree/main/Microservice-Architecture/Registry%20and%20Discovery%20Pattern/Resource)|:book:|
 |Config-Server to Externalize the Configurations|||:hourglass:|
 |API Gateway Pattern|||:hourglass:|
 |Distributed Tracing|||:hourglass:|
