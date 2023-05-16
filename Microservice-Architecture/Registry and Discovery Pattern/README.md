@@ -12,8 +12,7 @@ The service discovery pattern uses a centralized server named “service registr
 |3.|Load Balancing In Microservices|[Load Balancing In Microservices](https://github.com/abbos0123/Microservices/blob/main/Microservice-Architecture/Registry%20and%20Discovery%20Pattern/Resource/Load%20Balancing%20In%20Microservices.%20Hi%2C%20In%20this%20post%20I%20will%20try%20to%20explain%E2%80%A6%20_%20by%20Mesut%20Yakut%20_%20Medium.pdf) </br> ```mesutyakut.medium.com```|:heavy_check_mark:|
 |4.|Microservice Registration and Discovery with Spring Cloud and Netflix's Eureka|[Microservice Registration and Discovery with Spring Cloud and Netflix's Eureka](https://github.com/abbos0123/Microservices/blob/main/Microservice-Architecture/Registry%20and%20Discovery%20Pattern/Resource/Microservice%20Registration%20and%20Discovery%20with%20Spring%20Cloud%20and%20Netflix's%20Eureka.pdf) </br> ```spring.io```|:heavy_check_mark:|
 |5.|What is a Load Balancer?|[What is a Load Balancer?](https://www.youtube.com/watch?v=sCR3SAVdyCc) </br> ```youtube.com```|:heavy_check_mark:|
-
-
+|6.|Service Discovery in Microservices?|[Service Discovery in Microservices](https://www.youtube.com/watch?v=3UDJvF0CMkQ) </br> ```youtube.com```|:heavy_check_mark:|
 
 </br>
 
