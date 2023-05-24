@@ -12,3 +12,11 @@ The service discovery pattern uses a centralized server named “service registr
 |3.|What is Kafka?|[What is Kafka?](https://www.youtube.com/watch?v=aj9CDZm0Glc) </br> ```youtube.com``` |:heavy_check_mark:|
 |4.|Kafka Tutorial - Spring Boot Microservices|[Kafka Tutorial - Spring Boot Microservices](https://www.youtube.com/watch?v=SqVfCyfCJqw) </br> ```youtube.com``` |:heavy_check_mark:|
 
+
+## Practice 📔
+I have done some [practices](https://github.com/abbos0123/Microservices/tree/main/Microservice-Architecture/Event-driven%20architecture/practice) in order to learn some code features of Kafka. In the following table, you can find all practices which I have done.
+|No|Name|Description|Status|
+|--|----|-----------|------|
+|1.|[Kafka with two simple services](https://github.com/abbos0123/Microservices/tree/main/Microservice-Architecture/Event-driven%20architecture/practice/connecting-two-micorservices-with-kafka)|In this small practice, I have created one project and build kafka with kafka compose file. Thand configure kafka producers and Kafka listeners in order to pass massage.|:heavy_check_mark:|
+
+
