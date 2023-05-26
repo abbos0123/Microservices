@@ -14,6 +14,8 @@ The service discovery pattern uses a centralized server named “service registr
 |5.|Kafka in Action|[Kafka in Action](https://github.com/abbos0123/Microservices/tree/main/Microservice-Architecture/Event-driven%20architecture/resource/Kafka%20in%20Action)</br> ```manning.com``` |:book:|
 
 
+</br>
+
 ## Practice 📔
 I have done some [practices](https://github.com/abbos0123/Microservices/tree/main/Microservice-Architecture/Event-driven%20architecture/practice) in order to learn some code features of Kafka. In the following table, you can find all practices which I have done.
 |No|Name|Description|Status|
