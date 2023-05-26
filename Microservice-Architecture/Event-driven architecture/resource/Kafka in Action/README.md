@@ -1,1 +1,3 @@
-
+# Kafka in Action 
+Think of Apache Kafka as a high performance software bus that facilitates event streaming, logging, analytics, and other data pipeline tasks. With Kafka, you can easily build features like operational data monitoring and large-scale event processing into both large and small-scale applications.
+Kafka in Action introduces the core features of Kafka, along with relevant examples of how to use it in real applications. In it, you’ll explore the most common use cases such as logging and managing streaming data. When you’re done, you’ll be ready to handle both basic developer- and admin-based tasks in a Kafka-focused team.
