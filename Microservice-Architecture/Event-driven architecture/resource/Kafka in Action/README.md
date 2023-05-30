@@ -5,9 +5,9 @@ Kafka in Action introduces the core features of Kafka, along with relevant examp
 ## Study Plan 📚
 |Chapter|Name|Practice(code)|Related Resource|Status|
 |-------|----|--------------|----------------|------|
-|1|_Introduction to Kafka_|||:havy_check_mark:|
-|2|_Getting to know Kafka_|||:havy_check_mark:|
-|3|_Designing a Kafka project_|||:havy_check_mark:|
+|1|_Introduction to Kafka_|||:heavy_check_mark:|
+|2|_Getting to know Kafka_|||:heavy_check_mark:|
+|3|_Designing a Kafka project_|||:heavy_check_mark:|
 |4|_Producers: Sourcing data_|||:book:|
 |5|_Consumers: Unlocking data_|||:hourglass:|
 |6|_Brokers_|||:hourglass:|
