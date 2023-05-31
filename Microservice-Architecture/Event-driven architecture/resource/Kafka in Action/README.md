@@ -8,9 +8,9 @@ Kafka in Action introduces the core features of Kafka, along with relevant examp
 |1|_Introduction to Kafka_|||:heavy_check_mark:|
 |2|_Getting to know Kafka_|||:heavy_check_mark:|
 |3|_Designing a Kafka project_|||:heavy_check_mark:|
-|4|_Producers: Sourcing data_|||:book:|
-|5|_Consumers: Unlocking data_|||:hourglass:|
-|6|_Brokers_|||:hourglass:|
+|4|_Producers: Sourcing data_|||:heavy_check_mark:|
+|5|_Consumers: Unlocking data_|||:heavy_check_mark:|
+|6|_Brokers_|||:book:|
 |7|_Topics and partitions_|||:hourglass:|
 |8|_Kafka storage_|||:hourglass:|
 |9|_Management: </br> Tools and logging_|||:hourglass:|
