@@ -12,10 +12,10 @@ Kafka in Action introduces the core features of Kafka, along with relevant examp
 |5|_Consumers: Unlocking data_|||:heavy_check_mark:|
 |6|_Brokers_|||:heavy_check_mark:|
 |7|_Topics and partitions_|||:heavy_check_mark:|
-|8|_Kafka storage_|||:book:|
-|9|_Management: </br> Tools and logging_|||:hourglass:|
-|10|_Protecting Kafka_|||:hourglass:|
-|11|_Schema registry_|||:hourglass:|
-|12|_Stream processing with </br> Kafka Streams and ksqlDB_|||:hourglass:|
+|8|_Kafka storage_|||:heavy_check_mark:|
+|9|_Management: </br> Tools and logging_|||:heavy_check_mark:|
+|10|_Protecting Kafka_|||:heavy_check_mark:|
+|11|_Schema registry_|||:heavy_check_mark:|
+|12|_Stream processing with </br> Kafka Streams and ksqlDB_|||:heavy_check_mark:|
 
 
