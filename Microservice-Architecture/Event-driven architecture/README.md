@@ -11,7 +11,7 @@ The service discovery pattern uses a centralized server named “service registr
 |2.|Event-driven architecture style|[Event-driven architecture style](https://github.com/abbos0123/Microservices/blob/main/Microservice-Architecture/Event-driven%20architecture/resource/Event-driven%20architecture%20style%20-%20Azure%20Architecture%20Center%20_%20Microsoft%20Learn.pdf) </br> ```learn.microsoft.com```|:heavy_check_mark:|
 |3.|What is Kafka?|[What is Kafka?](https://www.youtube.com/watch?v=aj9CDZm0Glc) </br> ```youtube.com``` |:heavy_check_mark:|
 |4.|Kafka Tutorial - Spring Boot Microservices|[Kafka Tutorial - Spring Boot Microservices](https://www.youtube.com/watch?v=SqVfCyfCJqw) </br> ```youtube.com``` |:heavy_check_mark:|
-|5.|Kafka in Action|[Kafka in Action](https://github.com/abbos0123/Microservices/tree/main/Microservice-Architecture/Event-driven%20architecture/resource/Kafka%20in%20Action)</br> ```manning.com``` |:book:|
+|5.|Kafka in Action|[Kafka in Action](https://github.com/abbos0123/Microservices/tree/main/Microservice-Architecture/Event-driven%20architecture/resource/Kafka%20in%20Action)</br> ```manning.com``` |:heavy_check_mark:|
 
 
 </br>
